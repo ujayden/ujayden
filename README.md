@@ -13,7 +13,7 @@ I'm a LSGI STUDENT / DEVELOPER / GIS LEARNER from Hong Kong.
 - Languages: Python, JavaScript, SQL
 - Tools: Git, PostgreSQL, ArcGIS, Matlab
 
-## Projects Maintaining or Creating
+## Projects that Create, Fork, or Maintain by me
 - [LLMcord](https://github.com/ujayden/llmcord) — A modified version of [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) with more features for better config management.
 - And more! Please scroll down to see my repositories.
 
