@@ -1,23 +1,69 @@
-<h1 align="center">Hi 👋, I'm Uncle Jayden</h1>
-<h3 align="center">Still learning on programming as a student</h3>
+# Hi, I'm uJayden
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uncle-jayden&label=Profile%20views&color=0e75b6&style=flat" alt="uncle-jayden" /> </p>
+I'm a LSGI STUDENT / DEVELOPER / GIS LEARNER from Hong Kong.
 
-- 🌱 I’m currently learning **Python, HTML/CSS/JS, SQL**
+- 🎓 Studying: Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University. [What is this?](https://www.polyu.edu.hk/lsgi/)
+- 💻 Interested in: Web development, GIS, backend systems, CTF, Application of LLM AI
+- 🌱 Currently learning: GIS, Python
+- 🎮 Fun fact: I study LSGI that , but half my curiosity lives in web infrastructure.
 
-- 📝 I (may) regularly write articles on [www.unclejayden.xyz](www.unclejayden.xyz)
+## Tech Stack
+- Languages: Python, JavaScript, SQL
+- Tools: Git, PostgreSQL, ArcGIS, Matlab
 
-- 📫 How to reach me **info@unclejayden.xyz**
+## Projects Maintaining or Creating
+- [LLMcord](https://github.com/ujayden/llmcord) — A modified version of [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) with more features for better config management.
+- And more! Please scroll down to see my repositories.
 
-- ⚡ Fun fact **Profile generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ because I am lazy**
+## Connect
+- GitHub: [github.com/ujayden](https://github.com/ujayden)
+- Personal Website: [ujayden.com](https://www.ujayden.com)
+- Portfolio: [hub.ujayden.com](https://hub.ujayden.com) *(planned)*
+- Email: [admin@ujayden.com](mailto:admin@ujayden.com)
+- Threads / Instagram: [@ujayden_00](https://www.threads.com/@ujayden_00)
+- X (Twitter): [@ujayden_](https://twitter.com/ujayden_)
+- Discord: `ujayden`
 
-- 📚 Feel free to contact me if you find grammar mistakes
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ujayden&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujayden&layout=compact&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Notes
+- I am a student and may make mistakes in my code. Please feel free to point them out and help me improve!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## More Fun Facts
+- uJayden's "u" is stand for uncle.
+- Previous name is uncle-jayden, but it's too long to type so I shorten it to uJayden.
+- My GitHub avatar features a character named Florian Brand from the game Identity V. He is a Fire Investigator. I chose this character because I admire his personality — he is cool, kind, intelligent, and enthusiastic.
+- I got a extreme grade in ICT in the HKDSE and do not study Geography. But instead of studying Computer Science, I chose Land Surveying and Geo-Informatics — a choice many people find surprising. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uncle-jayden&show_icons=true&theme=dark&locale=en" alt="uncle-jayden" /></p>
+## Define uJayden
+```python
+class uJayden:
+    def __init__(self):
+        self.username = 'uJayden'
+        self.name = 'Jayden'
+        self.position = ['LSGI Student', 'Developer', 'GIS Learner']
+        self.web = 'https://www.ujayden.com'
+        self.profile = 'https://hub.ujayden.com/'
+        self.contact = {
+            'email': 'admin@ujayden.com',
+            'threads': '@ujayden_00',
+            'x': '@ujayden_'
+        }
+        self.code = {
+            'backend': ['Python', 'NodeJS', 'PHP'],
+            'database': ['PostgreSQL', 'MySQL'],
+            'tools': [ 'Git, PostgreSQL, ArcGIS, Matlab'],
+            'misc': ['LLM AI', 'CTF']
+        }
+
+    def __str__(self):
+        return f'{self.name} | {", ".join(self.position)}'
+
+
+if __name__ == '__main__':
+    me = uJayden()
+    print(me)
+```
+
