@@ -1,5 +1,7 @@
 # Hi, I'm uJayden
 
+![Profile Views](https://komarev.com/ghpvc/?username=ujayden&color=blue&style=for-the-badge)
+
 I'm a LSGI STUDENT / DEVELOPER / GIS LEARNER from Hong Kong.
 
 - 🎓 Studying: Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University. [What is this?](https://www.polyu.edu.hk/lsgi/)
